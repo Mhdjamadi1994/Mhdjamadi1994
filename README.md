@@ -92,6 +92,58 @@
 </table>
 
 
+## 📊 Analytical Intelligence & System Metrics
+
+<div align="center">
+
+<!-- کارت آمار اصلی -->
+<a href="https://github.com/Mhdjamadi1994">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<!-- کارت زبان‌های برنامه‌نویسی -->
+<a href="https://github.com/Mhdjamadi1994">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhdjamadi1994&layout=compact&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
+<!-- نمودار فعالیت -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdjamadi1994&bg_color=001f3f&color=ffffff&line=00d4ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" />
+
+<br/>
+
+<!-- جدول اطلاعات تماس -->
+<table align="center">
+  <tr>
+    <td bgcolor="#001f3f" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=001f3f" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#001f3f" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-00d4ff?style=for-the-badge&logo=github&logoColor=001f3f" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#001f3f" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Joined-2024-00d4ff?style=for-the-badge&logo=calendar&logoColor=001f3f" />
+      <br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
 
 
 
