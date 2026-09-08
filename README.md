@@ -28,6 +28,23 @@
 
 
 
+## 📊 GitHub Stats
+
+![Mhd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mhdjamadi1994&theme=radical&hide_long_streaks=true)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhdjamadi1994&layout=compact&theme=radical)
+
+
 
 
 
