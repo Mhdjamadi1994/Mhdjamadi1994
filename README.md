@@ -92,26 +92,10 @@
 </table>
 
 
+
 <div align="center">
-  <!-- Pac-Man Animation Start -->
-  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/100/svg">
-    <circle cx="50" cy="50" r="40" fill="yellow" />
-    <path d="M50,50 L90,20 A40,40 0 0,1 90,80 Z" fill="black">
-      <animate attributeName="d" 
-               values="M50,50 L90,20 A40,40 0 0,1 90,80 Z; 
-                        M50,50 L10,20 A40,40 0 0,0 10,80 Z; 
-                        M50,50 L90,20 A40,40 0 0,1 90,80 Z" 
-               dur="0.5s" 
-               repeatCount="indefinite" />
-    </path>
-  </svg>
-  <!-- Pac-Man Animation End -->
+  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/نام-ریپازیتوری-تو/main/pacman.svg" width="100" />
 </div>
-
-
-
-![Pacman Animation](pacman.svg)
-
 
 
 
