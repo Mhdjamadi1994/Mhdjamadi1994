@@ -33,7 +33,7 @@
 <h1 align="center">🚀 Technical Toolbox</h1>
 
 <p align="center">
-  <i>"Building scalable and efficient solutions through clean code and robust architecture."</i>
+  <i>"Building scalable and efficient solutions through clean code and robust architecture"</i>
 </p>
 
 <!-- بخش Backend & Languages -->
