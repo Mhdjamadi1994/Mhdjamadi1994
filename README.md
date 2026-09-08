@@ -92,7 +92,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="200" />
+  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" />
 </div>
 
 
