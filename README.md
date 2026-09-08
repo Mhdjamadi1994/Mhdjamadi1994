@@ -27,23 +27,6 @@
 ☕ **Fun fact**  Powered by coffee, fueled by curiosity
 
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Mhdjamadi1994's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhdjamadi1994&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Mhdjamadi1994's Top Languages" />
-</div>
-
----
-
-## 🔥 My GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mhdjamadi1994&theme=radical&hide_lines=true&hide_border=true&border_radius=10&background=0D1117&mode=weekly" alt="Mhdjamadi1994's Streak" />
-</div>
-
----
 
 
 
