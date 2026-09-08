@@ -92,9 +92,7 @@
 </table>
 
 
-<div align="center">
-  <img src="https://github-readme-card.vercel.app/api/read-time?url=https://github.com/Mhdjamadi1994/your-repo-name&`theme=tokyo-night`" alt="Read time card" />
-</div>
+
 
 
 
