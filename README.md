@@ -10,16 +10,21 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Full-Stack Engineer | Building Scalable Digital Experiences**
+🏠 **Remote Full-Stack Engineer**  I build fast, reliable, and scalable web apps end-to-end
 
-I don't just write code; I engineer solutions. My focus is on bridging the gap between complex backend logic and intuitive frontend experiences, ensuring every application is **high-performing, secure, and scalable.**
+🎯 **Passionate about performance & code quality** I care about clean architecture, best practices, and measurable results.
 
-🎯 **What I bring to the table:**
-* **Architecture First:** I prioritize clean, maintainable code and scalable system design.
-* **Performance Driven:** I obsess over optimization, from database queries to frontend rendering.
-* **End-to-End Ownership:** From initial concept to deployment, I ensure technical excellence at every step.
+🧠 **Problem solver at heart**  I enjoy breaking complex technical challenges into simple, elegant solutions
 
-🧠 **Core Philosophy:** Breaking down complex technical debt into elegant, high-performance systems.
+⚙️ **Tech stack**  Python, Django, JavaScript, React, Node.js, PHP, HTML, CSS, Git, GitHub, SQLite
+
+🌍 **Location**  Working remotely 🚀
+
+💬 **Let's connect**  Always open to collaboration, interesting projects, and good conversations. To connect with me, click below
+
+[![My Profile](https://img.shields.io/badge/My_Profile-red?style=for-the-badge&logo=github)](https://github.com/Mhdjamadi1994)
+
+☕ **Fun fact**  Powered by coffee, fueled by curiosity
 
 
 
