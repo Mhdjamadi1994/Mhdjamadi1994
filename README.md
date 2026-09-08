@@ -92,6 +92,9 @@
 </table>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true" alt="Mhdjamadi1994's GitHub Stats" />
+</div>
 
 
 
