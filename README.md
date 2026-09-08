@@ -102,11 +102,7 @@
 </a>
 
 <!-- کارت زبان‌های برنامه‌نویسی -->
-<a href="https://github.com/Mhdjamadi1994">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhdjamadi1994&layout=compact&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Top Languages" />
-</a>
 
-<br/>
 
 <!-- نمودار فعالیت -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdjamadi1994&bg_color=001f3f&color=ffffff&line=00d4ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" />
