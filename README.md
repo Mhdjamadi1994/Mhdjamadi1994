@@ -96,29 +96,30 @@
 
 <div align="center">
 
-<!-- کارت آمار کلی (Stats Card) با پس‌زمینه سفید و رنگ‌های Teal/Gray -->
+<!-- کارت آمار کلی با پس‌زمینه آبی آسمانی -->
 <a href="https://github.com/Mhdjamadi1994">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=flat&bg_color=ffffff&title_color=008080&text_color=4a4a4a&icon_color=008080&hide_border=true" alt="Mhdjamadi1994 GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=flat&bg_color=87CEEB&title_color=008080&text_color=4a4a4a&icon_color=008080&hide_border=true" alt="Mhdjamadi1994 GitHub Stats" />
 </a>
 
 <br/>
 
-<!-- برای نمایش دقیق TOTAL (مثل مجموع ستاره‌ها و غیره) به صورت جداگانه و شیک -->
+<!-- بج‌ها با رنگ‌بندی هماهنگ -->
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Stars-008080?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Total_Stars-008080?style=for-the-badge&logo=github&logoColor=87CEEB" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Commits-4a4a4a?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Total_Commits-4a4a4a?style=for-the-badge&logo=git&logoColor=87CEEB" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_PRs-008080?style=for-the-badge&logo=github-pull-request&logoColor=white" />
+      <img src="https://img.shields.io/badge/Total_PRs-008080?style=for-the-badge&logo=github-pull-request&logoColor=87CEEB" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
