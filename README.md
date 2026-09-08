@@ -92,43 +92,38 @@
 </table>
 
 
-
-
 ## 📊 Analytical Intelligence & System Metrics
 
 <div align="center">
 
-<!-- کارت آمار اصلی - با پس‌زمینه توسی و متن فیروزه‌ای -->
+<!-- کارت آمار کلی (Stats Card) با پس‌زمینه سفید و رنگ‌های Teal/Gray -->
 <a href="https://github.com/Mhdjamadi1994">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=algolia&bg_color=2e3440&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=flat&bg_color=ffffff&title_color=008080&text_color=4a4a4a&icon_color=008080&hide_border=true" alt="Mhdjamadi1994 GitHub Stats" />
 </a>
 
 <br/>
 
-<!-- نمودار فعالیت - با تم رنگی هماهنگ -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdjamadi1994&bg_color=2e3440&color=ffffff&line=00d4ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" />
-
-<br/>
-
-<!-- جدول اطلاعات تماس - با پس‌زمینه توسی و رنگ فیروزه‌ای -->
+<!-- برای نمایش دقیق TOTAL (مثل مجموع ستاره‌ها و غیره) به صورت جداگانه و شیک -->
 <table align="center">
   <tr>
-    <td bgcolor="#2e3440" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=2e3440" />
-      <br/>
-    </td >
-  </tr>
-  <tr>
-    <td bgcolor="#2e3440" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-00d4ff?style=for-the-badge&logo=github&logoColor=2e3440" />
-      <br/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Stars-008080?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Commits-4a4a4a?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_PRs-008080?style=for-the-badge&logo=github-pull-request&logoColor=white" />
     </td>
   </tr>
 </table>
 
 </div>
+
+
+
+
+
 
 
 
