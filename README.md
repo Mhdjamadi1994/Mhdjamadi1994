@@ -110,6 +110,8 @@
 
 
 
+![Pacman Animation](pacman.svg)
+
 
 
 
