@@ -28,6 +28,21 @@
 
 
 
+---
+## 📊 GitHub Stats & Streak
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mhdjamadi1994 Stats" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhdjamadi1994&show_icons=true&theme=radical&layout=compact" alt="Mhdjamadi1994 Top Langs" />
+
+</div>
+
+
+
 
 
 <table align="center">
