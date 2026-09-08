@@ -96,28 +96,32 @@
 
 <div align="center">
 
-<!-- بخش اول: کارت‌های آماری کنار هم -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=dark&bg_color=2B2B2B&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&hide_border=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdjamadi1994&bg_color=2B2B2B&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&hide_border=true" height="170" alt="Contribution Graph" />
+<!-- کارت اصلی جزئیات پروفایل با رنگ خاکستری و متن سفید -->
+<a href="https://github.com/Mhdjamadi1994">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhdjamadi1994&theme=nord_dark" alt="Profile Details" />
+</a>
 
 <br/>
 
-<!-- بخش دوم: اطلاعات تماس در یک باکس مرتب -->
-<table>
+<!-- بخش اطلاعات تماس با استایل سفارشی -->
+<table align="center">
+  <tr>
+    <td bgcolor="#2B2B2B" align="center" width="250">
+      <br/>
+      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
+      <br/><br/>
+    </td>
+  </tr>
   <tr>
     <td bgcolor="#2B2B2B" align="center">
-      <font color="#FFFFFF" size="4"><b>📧 Email:</b></font> <br/>
-      <a href="mailto:mohamadhasanjamadi1994@gmail.com"><font color="#14B8A6">mohamadhasanjamadi1994@gmail.com</font></a>
-    </td>
-    <td bgcolor="#2B2B2B" align="center">
-      <font color="#FFFFFF" size="4"><b>🔗 GitHub:</b></font> <br/>
-      <a href="https://github.com/Mhdjamadi1994"><font color="#14B8A6">Mhdjamadi1994</font></a>
+      <br/>
+      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 </div>
-
 
 
 
