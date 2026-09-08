@@ -95,6 +95,21 @@
 
 
 
+<h1 align="center">🌐 Connect With Me</h1>
+
+<p align="center">
+  <a href="https://github.com/Mhdjamadi1994" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/Mhdjamadi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://t.me/mohamad_jamadi" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:mohamadhasanjamadi1994@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://discord.com/users/mhdjamadi_05015" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+
+
+
+
+
 
 
 
