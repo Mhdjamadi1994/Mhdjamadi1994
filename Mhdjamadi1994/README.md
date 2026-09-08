@@ -1,5 +1,4 @@
-<img width="1723" height="1007" alt="Screenshot_۲۰۲۶۰۹۰۷-۱۶۰۲۵۷_Pinterest" src="https://github.com/user-attachments/assets/4e1c5102-c196-4e9f-8db8-2fb96197f5e5" />
-
+<img width="1723" height="1007" alt="Screenshot_۲۰۲۶۰۹۰۷-۱۶۰۲۵۷_Pinterest" src="https://github.com/user-attachments/assets/ea295408-947a-4670-b2e5-6ac016abc1ef" />
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=007BFF&center=true&vCenter=true&width=500&height=70&lines=Hi+there,+I'm+Mhd!+👋;Welcome+to+my+world!+🚀;Let+build+something+great!+💻)
@@ -31,49 +30,93 @@
 
 
 
+<h1 align="center">🚀 Technical Toolbox</h1>
+
+<p align="center">
+  <i>"Building scalable and efficient solutions through clean code and robust architecture"</i>
+</p>
+
+<!-- بخش Backend & Languages -->
+<h3 align="left">💻 Backend & Languages</h3>
 <table align="center">
-  <!-- ردیف اول: زبان‌ها و مبانی وب -->
   <tr align="center">
     <td width="100"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
+  </tr>
+</table>
+
+<!-- بخش Frontend -->
+<h3 align="left">🎨 Frontend Development</h3>
+<table align="center">
+  <tr align="center">
+    <td width="100"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=html" /><br>HTML5</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=css" /><br>CSS3</td>
   </tr>
-  <!-- ردیف دوم: فریم‌ورک‌ها و ابزارها -->
+</table>
+
+<!-- بخش Database & ORM -->
+<h3 align="left">🗄️ Databases & ORM</h3>
+<table align="center">
   <tr align="center">
-    <td width="100"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
-  </tr>
-  <!-- ردیف سوم: دیتابیس‌ها -->
-  <tr align="center">
-    <td width="100"><img src="https://skillicons.dev/icons?i=sqlite" /><br>SQLite</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
     <td width="100"><img src="https://skillicons.dev/icons?i=mongodb" /><br>MongoDB</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=sqlite" /><br>SQLite</td>
     <td width="100"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><br>SQL Server</td>
   </tr>
-  <!-- ردیف چهارم: ORM -->
   <tr align="center">
     <td width="100"><img src="https://img.shields.io/badge/SQLAlchemy-CC342D?style=for-the-badge&logo=python&logoColor=white" /><br>SQLAlchemy</td>
     <td width="100"><img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" /><br>Django ORM</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
-    <td width="100"><img src="https://skillicons.dev/icons?i=atom" /><br>Atom</td>
-  </tr>
-  <!-- ردیف پنجم: ابزارها و IDE -->
-  <tr align="center">
-    <td width="100"><img src="https://skillicons.dev/icons?i=pycharm" /><br>PyCharm</td>
-    <td width="100"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>Discord</td>
-    <td width="100"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br>OpenAI</td>
-    <td width="100"><img src="https://img.shields.io/badge/Claude-f7f4e9?style=for-the-badge&logo=anthropic&logoColor=black" /><br>Claude</td>
   </tr>
 </table>
+
+<!-- بخش Tools & Environment -->
+<h3 align="left">🛠️ Tools & Environment</h3>
+<table align="center">
+  <tr align="center">
+    <td width="100"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=linux" /><br>Linux</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=pycharm" /><br>PyCharm</td>
+  </tr>
+  <tr align="center">
+    <td width="100"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br>OpenAI</td>
+    <td width="100"><img src="https://img.shields.io/badge/Claude-f7f4e9?style=for-the-badge&logo=anthropic&logoColor=black" /><br>Claude</td>
+    <td width="100"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /><br>Discord</td>
+  </tr>
+</table>
+
+
+<div align="center">
+  <!-- Pac-Man Animation Start -->
+  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="40" fill="yellow" />
+    <path d="M50,50 L90,20 A40,40 0 0,1 90,80 Z" fill="black">
+      <animate attributeName="d" 
+               values="M50,50 L90,20 A40,40 0 0,1 90,80 Z; 
+                        M50,50 L10,20 A40,40 0 0,0 10,80 Z; 
+                        M50,50 L90,20 A40,40 0 0,1 90,80 Z" 
+               dur="0.5s" 
+               repeatCount="indefinite" />
+    </path>
+  </svg>
+  <!-- Pac-Man Animation End -->
 </div>
-</div>
+
+
+
+
+
+
+
+
+
+
 
 
 <h1 align="center">🌐 Connect With Me</h1>
@@ -85,3 +128,8 @@
   <a href="mailto:mohamadhasanjamadi1994@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://discord.com/users/mhdjamadi_05015" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
+
+
+
+
+
