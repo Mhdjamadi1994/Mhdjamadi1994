@@ -92,6 +92,29 @@
 </table>
 
 
+## 📊 Analytical Intelligence & System Metrics
+
+<div align="center">
+
+| Metric | Value |
+| :--- | :--- |
+| **📧 Contact** | [![Gmail](https://img.shields.io/badge/Gmail-mohammadhasanjamadi1994@gmail.com-white?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadhasanjamadi1994@gmail.com) |
+| **👤 GitHub User** | [Mhdjamadi1994](https://github.com/Mhdjamadi1994) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=transparent&title_color=teal&text_color=white&icon_color=teal&bg_color=333333&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" />
