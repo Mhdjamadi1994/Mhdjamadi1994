@@ -96,28 +96,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Mhdjamadi1994">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhdjamadi1994&theme=nord_dark" alt="Profile Details" />
-</a>
+![GitHub Stats](https://camo.githubusercontent.com/5974629a2ed2305cc3b362ca9ca44003237690002717ec8300002c071a55911e/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d617263682d79756e7573267468656d653d6e6f72645f6461726b)
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td bgcolor="#2B2B2B" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#2B2B2B" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-      <br/>
-    </td>
-  </tr>
-</table>
+| **📧 Email** | **[mohamadhasanjamadi1994@gmail.com](mailto:mohamadhasanjamadi1994@gmail.com)** |
+|:---:|:---:|
+| **🔗 GitHub** | **[Mhdjamadi1994](https://github.com/Mhdjamadi1994)** |
+| **📅 Joined** | **2024** |
 
 </div>
 
@@ -129,11 +115,6 @@
 
 
 
-
-
-
-
-  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" /
 </div>
