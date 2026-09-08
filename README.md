@@ -95,21 +95,32 @@
 ## 📊 Analytical Intelligence & System Metrics
 
 <div align="center">
->
+
 <a href="https://github.com/Mhdjamadi1994">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhdjamadi1994&theme=nord_dark" alt="Profile Details" />
 </a>
 
-<br/> 
+<br/>
+
 <table align="center">
   <tr>
-    <td bgcolor="#2B2B2B" align="center" width="250">
+    <td bgcolor="#2B2B2B" align="center">
       <br/>
-    </td>  
-  </tr>    
+      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#2B2B2B" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+      <br/>
+    </td>
+  </tr>
 </table>
-</div>     
- 
+
+</div>
+
 
 
 
