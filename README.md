@@ -121,48 +121,6 @@
 </div>
 
 
-## 🛠️ Tech Stack & Proficiency
-
-<div align="left">
-
-<!-- پایتون - مثلاً ۶۰ درصد -->
-<p>
-  <strong>Python</strong> <br>
-  <img src="https://progress-bar.dev/60/?title=60%25&width=400&color=008080&style=flat-square" alt="Python Progress" />
-</p>
-
-<!-- جاوا اسکریپت - مثلاً ۳۰ درصد -->
-<p>
-  <strong>JavaScript</strong> <br>
-  <img src="https://progress-bar.dev/30/?title=30%25&width=400&color=008080&style=flat-square" alt="JS Progress" />
-</p>
-
-<!-- سی‌شارپ یا هر زبان دیگر - مثلاً ۱۰ درصد -->
-<p>
-  <strong>C#</strong> <br>
-  <img src="https://progress-bar.dev/10/?title=10%25&width=400&color=008080&style=flat-square" alt="C# Progress" />
-</p>
-
-</div>
-
-<br/>
-
-<!-- بخش توضیحی کوچک با همان استایل قبلی -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Skill_Level-Expert-008080?style=flat-square" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
