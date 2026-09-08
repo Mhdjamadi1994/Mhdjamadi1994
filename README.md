@@ -106,7 +106,7 @@
     <td bgcolor="#2B2B2B" align="center" width="250">
       <br/>
     </td>  
-    
+  </tr>    
 
       
      
@@ -125,7 +125,8 @@
 
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" /</div>
+  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" /
+</div>
 
 
 
