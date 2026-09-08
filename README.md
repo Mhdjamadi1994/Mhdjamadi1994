@@ -94,7 +94,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/نام-ریپازیتوری-تو/main/pacman.svg" width="100" />
+  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" />
 </div>
 
 
