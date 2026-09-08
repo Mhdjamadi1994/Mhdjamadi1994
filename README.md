@@ -96,29 +96,46 @@
 
 <div align="center">
 
-| Metric | Value |
-| :--- | :--- |
-| **📧 Contact** | [![Gmail](https://img.shields.io/badge/Gmail-mohammadhasanjamadi1994@gmail.com-white?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadhasanjamadi1994@gmail.com) |
-| **👤 GitHub User** | [Mhdjamadi1994](https://github.com/Mhdjamadi1994) |
-
-</div>
+<!-- بخش اول: کارت‌های آماری کنار هم -->
+<img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=dark&bg_color=2B2B2B&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&hide_border=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdjamadi1994&bg_color=2B2B2B&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&hide_border=true" height="170" alt="Contribution Graph" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=transparent&title_color=teal&text_color=white&icon_color=teal&bg_color=333333&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https
+<!-- بخش دوم: اطلاعات تماس در یک باکس مرتب -->
+<table>
+  <tr>
+    <td bgcolor="#2B2B2B" align="center">
+      <font color="#FFFFFF" size="4"><b>📧 Email:</b></font> <br/>
+      <a href="mailto:mohamadhasanjamadi1994@gmail.com"><font color="#14B8A6">mohamadhasanjamadi1994@gmail.com</font></a>
+    </td>
+    <td bgcolor="#2B2B2B" align="center">
+      <font color="#FFFFFF" size="4"><b>🔗 GitHub:</b></font> <br/>
+      <a href="https://github.com/Mhdjamadi1994"><font color="#14B8A6">Mhdjamadi1994</font></a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/pacman.svg" width="100" /</div>
 
 
 
