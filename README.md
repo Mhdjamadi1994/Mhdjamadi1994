@@ -93,9 +93,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhdjamadi1994&show_icons=true" alt="Mhdjamadi1994's GitHub Stats" />
+  <img src="https://github-readme-card.vercel.app/api/read-time?url=https://github.com/Mhdjamadi1994/your-repo-name&`theme=tokyo-night`" alt="Read time card" />
 </div>
-
 
 
 
