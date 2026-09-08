@@ -108,14 +108,14 @@
   <tr>
     <td bgcolor="#2B2B2B" align="center" width="250">
       <br/>
-      <img src="https://img.shields.io/badge/Email-mohamadhasanjamadi1994@gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
+      
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td bgcolor="#2B2B2B" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/GitHub-Mhdjamadi1994-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+      
       <br/><br/>
     </td>
   </tr>
