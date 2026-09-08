@@ -92,23 +92,6 @@
 </table>
 
 
-## 📊 Analytical Intelligence & System Metrics
-
-<div align="center">
-
-![GitHub Stats](https://camo.githubusercontent.com/5974629a2ed2305cc3b362ca9ca44003237690002717ec8300002c071a55911e/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d617263682d79756e7573267468656d653d6e6f72645f6461726b)
-
-<br/>
-
-| **📧 Email** | **[mohamadhasanjamadi1994@gmail.com](mailto:mohamadhasanjamadi1994@gmail.com)** |
-|:---:|:---:|
-| **🔗 GitHub** | **[Mhdjamadi1994](https://github.com/Mhdjamadi1994)** |
-| **📅 Joined** | **2024** |
-
-</div>
-
-
-
 
 
 
