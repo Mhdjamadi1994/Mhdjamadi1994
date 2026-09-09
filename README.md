@@ -139,7 +139,6 @@
 
 
 
-https://raw.githubusercontent.com/hazexone/hazexone/output/github-contribution-grid-snake-dark.svg
 
 
 
