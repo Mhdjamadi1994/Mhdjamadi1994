@@ -3,7 +3,7 @@
   <rect width="200" height="200" fill="transparent"/>
   
   <!-- Pac-Man Body with Animation -->
-  <path fill="yellow" d="M100,100 m-40,0 a40,40 0 1,1 80,0 a40,40 0 1,1 -80,0 Z">
+  <path fill="Red" d="M100,100 m-40,0 a40,40 0 1,1 80,0 a40,40 0 1,1 -80,0 Z">
     <animate attributeName="d" 
              values="M100,100 m-40,0 a40,40 0 1,1 80,0 a40,40 0 1,1 -80,0 Z;
                       M100,100 m-40,0 a40,40 0 1,1 80,0 a40,40 0 1,1 -80,0 Z;
