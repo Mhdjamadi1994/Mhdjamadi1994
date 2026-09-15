@@ -122,7 +122,6 @@
 
 
 
-https://github.com/Mhdjamadi1994/Mhdjamadi1994/blob/main/assets%2Fexample.gif.gif
 
 
     
