@@ -122,8 +122,7 @@
 
 
 
-## پیش‌نمایش پروژه
-![نمایش پروژه](assets/example.gif)
+https://github.com/Mhdjamadi1994/Mhdjamadi1994/blob/main/assets/example.gif.gif
 
 
     
