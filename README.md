@@ -35,8 +35,7 @@
 <p align="center">
   <i>"Building scalable and efficient solutions through clean code and robust architecture"</i>
 </p>
-
-<!-- بخش Backend & Languages -->
+ & Languages -->
 <h3 align="left">💻 Backend & Languages</h3>
 <table align="center">
   <tr align="center">
@@ -47,7 +46,6 @@
   </tr>
 </table>
 
-<!-- بخش Frontend -->
 <h3 align="left">🎨 Frontend Development</h3>
 <table align="center">
   <tr align="center">
@@ -58,7 +56,7 @@
   </tr>
 </table>
 
-<!-- بخش Database & ORM -->
+
 <h3 align="left">🗄️ Databases & ORM</h3>
 <table align="center">
   <tr align="center">
@@ -74,7 +72,7 @@
   </tr>
 </table>
 
-<!-- بخش Tools & Environment -->
+
 <h3 align="left">🛠️ Tools & Environment</h3>
 <table align="center">
   <tr align="center">
@@ -96,14 +94,14 @@
 ## 📊 GitHub Analytics 
 <div align="center">
 
-<!-- کارت آمار کلی با پس‌زمینه آبی آسمانی -->
+  
 <a href="https://github.com/Mhdjamadi1994">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhdjamadi1994&show_icons=true&theme=flat&bg_color=87CEEB&title_color=008080&text_color=4a4a4a&icon_color=008080&hide_border=true" alt="Mhdjamadi1994 GitHub Stats" />
 </a>
 
 <br/>
 
-<!-- بج‌ها با رنگ‌بندی هماهنگ -->
+
 <table align="center">
   <tr>
     <td align="center">
