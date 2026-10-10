@@ -177,19 +177,65 @@
 
 
 
+
 <h1 align="center">🚀 Technical Toolbox</h1>
 
 <p align="center">
-  <i>Building intelligent, scalable systems with clean architecture and practical AI integration</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+scalable+AI-powered+systems;Clean+code%2C+robust+architecture%2C+measurable+impact" alt="toolbox-typing" />
 </p>
 
-<h3 align="left">🧠 AI / LLM Engineering</h3>
-<table align="center">
-  <tr align="center">
-    <td width="110"><img src="https://img.shields.io/badge/LLM_Apps-111827?style=for-the-badge&logo=openai&logoColor=white" /><br>LLM Apps</td>
-    <td width="110"><img src="https://img.shields.io/badge/Prompt_Engineering-334155?style=for-the-badge&logo=probot&logoColor=white" /><br>Prompt Eng</td>
-    <td width="110"><img src="https://img.shields.io/badge/RAG_Pipelines-0f766e?style=for-the-badge&logo...
+---
 
+### 💻 Backend, API & Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,php,js" alt="backend-icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+---
+
+### 🤖 AI / LLM Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Engineering" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+</p>
+
+---
+
+### 🧠 Vector Search & Caching
+<p align="center">
+  <img src="https://img.shields.io/badge/Vector_DB-6E40C9?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+---
+
+### 🗄️ Databases & ORM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="db-icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CC342D?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM" />
+</p>
+
+---
+
+### 🧱 DevOps, Tools & Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,pycharm" alt="devops-tools-icons" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-f7f4e9?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude" />
+  <img src="https://img.shields.io/badge/Ollama_Local_LLM-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama Local LLM" />
+</p>
 
 
 
