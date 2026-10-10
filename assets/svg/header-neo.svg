@@ -14,20 +14,45 @@
       </feMerge>
     </filter>
 
+    <!-- Avatar clip -->
+    <clipPath id="avatarClip">
+      <circle cx="980" cy="160" r="92"/>
+    </clipPath>
+
     <style>
       .title { font: 800 56px "Segoe UI", Arial, sans-serif; fill: #eafff4; letter-spacing: 1px; }
       .subtitle { font: 600 22px "Segoe UI", Arial, sans-serif; fill: #95ffd0; }
       .chipText { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #dfffee; }
       .neon { stroke: #2cff88; filter: url(#glow); }
+
+      /* GitHub-safe animation */
+      .pulseA { animation: pulseA 3s ease-in-out infinite; }
+      .pulseB { animation: pulseB 4s ease-in-out infinite; }
+
+      @keyframes pulseA {
+        0%,100% { opacity: .55; }
+        50% { opacity: 1; }
+      }
+      @keyframes pulseB {
+        0%,100% { opacity: .35; }
+        50% { opacity: .85; }
+      }
     </style>
   </defs>
 
+  <!-- Background -->
   <rect width="1200" height="320" rx="20" fill="url(#bgGrad)"/>
   <rect x="10" y="10" width="1180" height="300" rx="16" fill="none" class="neon" stroke-width="2"/>
 
+  <!-- Decorative -->
+  <line x1="60" y1="176" x2="760" y2="176" class="neon pulseA" stroke-width="1.8" opacity="0.8"/>
+  <line x1="60" y1="182" x2="650" y2="182" class="neon pulseB" stroke-width="1.2" opacity="0.5"/>
+
+  <!-- Text -->
   <text x="60" y="112" class="title">MHD JAMADI</text>
   <text x="60" y="150" class="subtitle">AI ENGINEER • BACKEND DEVELOPER</text>
 
+  <!-- Skill chips row 1 -->
   <g transform="translate(60,198)">
     <rect x="0" y="0" width="96" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
     <text x="26" y="20" class="chipText">Python</text>
@@ -45,8 +70,35 @@
     <text x="428" y="20" class="chipText">Git</text>
   </g>
 
-  <!-- safe avatar placeholder (no embedded image) -->
+  <!-- Skill chips row 2 -->
+  <g transform="translate(60,236)" opacity="0.95">
+    <rect x="0" y="0" width="78" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
+    <text x="23" y="18" class="chipText">LLM</text>
+
+    <rect x="90" y="0" width="78" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
+    <text x="113" y="18" class="chipText">RAG</text>
+
+    <rect x="180" y="0" width="128" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
+    <text x="210" y="18" class="chipText">AI Agents</text>
+  </g>
+
+  <!-- Avatar frame -->
   <circle cx="980" cy="160" r="100" fill="none" class="neon" stroke-width="2"/>
   <circle cx="980" cy="160" r="92" fill="#0a2b1f"/>
-  <text x="980" y="166" text-anchor="middle" style="font:600 14px Segoe UI,Arial; fill:#95ffd0;">PROFILE</text>
+
+  <!-- IMPORTANT:
+       Use RAW GitHub URL so GitHub README renderer can load image inside SVG -->
+  <image
+    href="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/assets/profile.webp.png"
+    x="888"
+    y="68"
+    width="184"
+    height="184"
+    clip-path="url(#avatarClip)"
+    preserveAspectRatio="xMidYMid slice" />
+
+  <!-- tiny corner accents -->
+  <circle cx="44" cy="42" r="3" fill="#2cff88" opacity="0.9"/>
+  <circle cx="54" cy="42" r="3" fill="#2cff88" opacity="0.6"/>
+  <circle cx="64" cy="42" r="3" fill="#2cff88" opacity="0.35"/>
 </svg>
