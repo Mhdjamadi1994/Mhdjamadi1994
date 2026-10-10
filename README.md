@@ -178,4 +178,57 @@
 
 
 
+<div align="center">
+  <!-- این بخش برای بنر نهایی شماست. عکس خودت را در روت یا پوشه assets بگذار -->
+  <img src="assets/profile-banner.png" alt="Mhd-Profile" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 AI Systems Architect & Full-Stack Engineer</h2>
+  <p>Building high-performance systems with a focus on AI Automation & Clean Architecture</p>
+</div>
+
+---
+
+<h2 align="center">🤖 ARTIFICIAL INTELLIGENCE</h2>
+<div align="center">
+  <img src="assets/svg/ai-focus.svg" alt="AI Focus" width="200px"/>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>⚡ IoT & EDGE</b></h3>
+      <ul>
+        <li>Sensor data streams</li>
+        <li>Edge inference</li>
+        <li>Real-time telemetry</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>🧠 MACHINE LEARNING</b></h3>
+      <ul>
+        <li>Supervised learning</li>
+        <li>Model evaluation</li>
+        <li>Feature engineering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠 TECH STACK</h2>
+<div align="center">
+  <img src="assets/svg/toolbox-title.svg" alt="Toolbox" width="150px"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
+
 
