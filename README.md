@@ -177,6 +177,19 @@
 
 
 
+<h1 align="center">🚀 Technical Toolbox</h1>
+
+<p align="center">
+  <i>Building intelligent, scalable systems with clean architecture and practical AI integration</i>
+</p>
+
+<h3 align="left">🧠 AI / LLM Engineering</h3>
+<table align="center">
+  <tr align="center">
+    <td width="110"><img src="https://img.shields.io/badge/LLM_Apps-111827?style=for-the-badge&logo=openai&logoColor=white" /><br>LLM Apps</td>
+    <td width="110"><img src="https://img.shields.io/badge/Prompt_Engineering-334155?style=for-the-badge&logo=probot&logoColor=white" /><br>Prompt Eng</td>
+    <td width="110"><img src="https://img.shields.io/badge/RAG_Pipelines-0f766e?style=for-the-badge&logo...
+
 
 
 
