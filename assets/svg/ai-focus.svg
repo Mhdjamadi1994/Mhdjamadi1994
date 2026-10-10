@@ -1,0 +1,15 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Focus Banner">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <style>
+      .t { font: 700 28px 'Segoe UI', Arial, sans-serif; fill: white; }
+      .s { font: 500 17px 'Segoe UI', Arial, sans-serif; fill: #e2e8f0; }
+    </style>
+  </defs>
+  <rect width="1200" height="110" rx="14" fill="url(#g)"/>
+  <text x="36" y="48" class="t">AI / LLM Specialization</text>
+  <text x="36" y="78" class="s">RAG Pipelines • Prompt Engineering • Ollama • Vector Search • Production APIs</text>
+</svg>

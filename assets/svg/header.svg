@@ -1,0 +1,41 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Header">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 54px 'Segoe UI', Arial, sans-serif; fill: #e5e7eb; }
+      .sub { font: 500 24px 'Segoe UI', Arial, sans-serif; fill: #93c5fd; }
+      .chip { font: 600 18px 'Segoe UI', Arial, sans-serif; fill: #cbd5e1; }
+      .pulse { animation: p 2.4s infinite ease-in-out; transform-origin: center; }
+      @keyframes p { 0%,100%{opacity:.45} 50%{opacity:1} }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)" rx="18"/>
+  <rect x="40" y="40" width="1120" height="180" rx="14" fill="none" stroke="url(#line)" stroke-width="2"/>
+
+  <text x="70" y="110" class="title">Mhd Jamadi</text>
+  <text x="70" y="150" class="sub">AI Engineer • Full-Stack Developer • Remote</text>
+
+  <g class="pulse">
+    <circle cx="1030" cy="95" r="9" fill="#22d3ee"/>
+    <circle cx="1065" cy="95" r="9" fill="#7c3aed"/>
+    <circle cx="1100" cy="95" r="9" fill="#38bdf8"/>
+  </g>
+
+  <rect x="70" y="172" rx="10" ry="10" width="180" height="34" fill="#1e293b"/>
+  <text x="88" y="194" class="chip">Python • Django</text>
+
+  <rect x="266" y="172" rx="10" ry="10" width="175" height="34" fill="#1e293b"/>
+  <text x="284" y="194" class="chip">FastAPI • LLM</text>
+
+  <rect x="456" y="172" rx="10" ry="10" width="185" height="34" fill="#1e293b"/>
+  <text x="474" y="194" class="chip">Docker • Redis</text>
+</svg>
