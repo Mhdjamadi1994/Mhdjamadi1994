@@ -1,104 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mhd Jamadi Header">
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mhd Jamadi Header">
+  
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#03150f"/>
-      <stop offset="60%" stop-color="#07291d"/>
-      <stop offset="100%" stop-color="#041b13"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#02140d"/>
+      <stop offset="50%" stop-color="#041f16"/>
+      <stop offset="100%" stop-color="#03110c"/>
     </linearGradient>
-
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="neon" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2cff88"/>
+      <stop offset="100%" stop-color="#00d66b"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-    <!-- Avatar clip -->
-    <clipPath id="avatarClip">
-      <circle cx="980" cy="160" r="92"/>
-    </clipPath>
-
+    <clipPath id="avatarClip"><circle cx="980" cy="160" r="105"/></clipPath>
     <style>
-      .title { font: 800 56px "Segoe UI", Arial, sans-serif; fill: #eafff4; letter-spacing: 1px; }
-      .subtitle { font: 600 22px "Segoe UI", Arial, sans-serif; fill: #95ffd0; }
-      .chipText { font: 600 14px "Segoe UI", Arial, sans-serif; fill: #dfffee; }
-      .neon { stroke: #2cff88; filter: url(#glow); }
-
-      /* GitHub-safe animation */
-      .pulseA { animation: pulseA 3s ease-in-out infinite; }
-      .pulseB { animation: pulseB 4s ease-in-out infinite; }
-
-      @keyframes pulseA {
-        0%,100% { opacity: .55; }
-        50% { opacity: 1; }
-      }
-      @keyframes pulseB {
-        0%,100% { opacity: .35; }
-        50% { opacity: .85; }
-      }
+      .title { font: 800 58px 'Segoe UI', Arial, sans-serif; fill: #eafff4; letter-spacing: 2px; }
+      .role  { font: 700 23px 'Segoe UI', Arial, sans-serif; fill: #7dffb8; letter-spacing: 2px; }
+      .tag   { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #cbffe2; }
+      .scan { opacity:.28; }
     </style>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="320" rx="20" fill="url(#bgGrad)"/>
-  <rect x="10" y="10" width="1180" height="300" rx="16" fill="none" class="neon" stroke-width="2"/>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="296" rx="16" fill="none" stroke="url(#neon)" stroke-width="2.2" filter="url(#glow)"/>
 
-  <!-- Decorative -->
-  <line x1="60" y1="176" x2="760" y2="176" class="neon pulseA" stroke-width="1.8" opacity="0.8"/>
-  <line x1="60" y1="182" x2="650" y2="182" class="neon pulseB" stroke-width="1.2" opacity="0.5"/>
+  <rect x="20" y="35" width="730" height="2.5" fill="#2cff88" class="scan" filter="url(#glow)">
+    <animate attributeName="y" values="35;285;35" dur="5.2s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Text -->
-  <text x="60" y="112" class="title">MHD JAMADI</text>
-  <text x="60" y="150" class="subtitle">AI ENGINEER • BACKEND DEVELOPER</text>
+  <text x="55" y="118" class="title" filter="url(#glow)">MHD JAMADI</text>
+  <text x="58" y="158" class="role">AI ENGINEER | BACKEND DEVELOPER</text>
+  <line x1="55" y1="176" x2="730" y2="176" stroke="#2cff88" stroke-width="2" opacity=".65"/>
 
-  <!-- Skill chips row 1 -->
-  <g transform="translate(60,198)">
-    <rect x="0" y="0" width="96" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
-    <text x="26" y="20" class="chipText">Python</text>
+  <rect x="55" y="194" width="90" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="79" y="214" class="tag">Python</text>
+  <rect x="154" y="194" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="180" y="214" class="tag">LLM</text>
+  <rect x="235" y="194" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="262" y="214" class="tag">RAG</text>
+  <rect x="316" y="194" width="94" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="339" y="214" class="tag">Django</text>
+  <rect x="419" y="194" width="98" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="440" y="214" class="tag">FastAPI</text>
+  <rect x="526" y="194" width="86" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="551" y="214" class="tag">Redis</text>
+  <rect x="55" y="234" width="92" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="77" y="254" class="tag">Docker</text>
+  <rect x="156" y="234" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="182" y="254" class="tag">SQL</text>
 
-    <rect x="108" y="0" width="92" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
-    <text x="136" y="20" class="chipText">Django</text>
+  <circle cx="980" cy="160" r="112" fill="none" stroke="#2cff88" stroke-width="3" filter="url(#glow)">
+    <animate attributeName="r" values="110;113;110" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
 
-    <rect x="212" y="0" width="92" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
-    <text x="240" y="20" class="chipText">FastAPI</text>
+  <image href="GEa-vWWkMZl0ZukJFsX9z9ogW9M-pDlKWXZnRoKhsCvf5UCXSw.webp" x="875" y="55" width="210" height="210" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
 
-    <rect x="316" y="0" width="74" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
-    <text x="341" y="20" class="chipText">SQL</text>
-
-    <rect x="402" y="0" width="78" height="30" rx="15" fill="#0d3325" class="neon" stroke-width="1"/>
-    <text x="428" y="20" class="chipText">Git</text>
-  </g>
-
-  <!-- Skill chips row 2 -->
-  <g transform="translate(60,236)" opacity="0.95">
-    <rect x="0" y="0" width="78" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
-    <text x="23" y="18" class="chipText">LLM</text>
-
-    <rect x="90" y="0" width="78" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
-    <text x="113" y="18" class="chipText">RAG</text>
-
-    <rect x="180" y="0" width="128" height="28" rx="14" fill="#0a2b1f" class="neon" stroke-width="0.8"/>
-    <text x="210" y="18" class="chipText">AI Agents</text>
-  </g>
-
-  <!-- Avatar frame -->
-  <circle cx="980" cy="160" r="100" fill="none" class="neon" stroke-width="2"/>
-  <circle cx="980" cy="160" r="92" fill="#0a2b1f"/>
-
-  <!-- IMPORTANT:
-       Use RAW GitHub URL so GitHub README renderer can load image inside SVG -->
-  <image
-    href="https://raw.githubusercontent.com/Mhdjamadi1994/Mhdjamadi1994/main/assets/profile.webp.png"
-    x="888"
-    y="68"
-    width="184"
-    height="184"
-    clip-path="url(#avatarClip)"
-    preserveAspectRatio="xMidYMid slice" />
-
-  <!-- tiny corner accents -->
-  <circle cx="44" cy="42" r="3" fill="#2cff88" opacity="0.9"/>
-  <circle cx="54" cy="42" r="3" fill="#2cff88" opacity="0.6"/>
-  <circle cx="64" cy="42" r="3" fill="#2cff88" opacity="0.35"/>
+  <path d="M1095 70 L1145 70 L1145 120" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
+  <path d="M865 250 L815 250 L815 200" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
 </svg>
