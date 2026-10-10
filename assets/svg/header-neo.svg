@@ -48,6 +48,7 @@
   </circle>
 
   <image href="GEa-vWWkMZl0ZukJFsX9z9ogW9M-pDlKWXZnRoKhsCvf5UCXSw.webp" x="875" y="55" width="210" height="210" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <image href="profile.webp" x="875" y="55" width="210" height="210" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
 
   <path d="M1095 70 L1145 70 L1145 120" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
   <path d="M865 250 L815 250 L815 200" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
