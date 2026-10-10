@@ -179,8 +179,8 @@
 
 
 <div align="center">
-  <!-- این بخش برای بنر نهایی شماست. عکس خودت را در روت یا پوشه assets بگذار -->
-  <img src="assets/profile-banner.png" alt="Mhd-Profile" width="100%"/>
+  <!-- بنر اصلی -->
+  <img src="assets/profile-banner.png" alt="Mhd-Banner" width="100%"/>
 </div>
 
 ---
@@ -193,9 +193,6 @@
 ---
 
 <h2 align="center">🤖 ARTIFICIAL INTELLIGENCE</h2>
-<div align="center">
-  <img src="assets/svg/ai-focus.svg" alt="AI Focus" width="200px"/>
-</div>
 
 <table align="center" width="100%">
   <tr>
@@ -216,19 +213,55 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><b>🔍 BIG DATA MINING</b></h3>
+      <ul>
+        <li>Spark and Hadoop</li>
+        <li>Pattern discovery</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><b>🌐 DEEP LEARNING</b></h3>
+      <ul>
+        <li>CNNs and RNNs</li>
+        <li>PyTorch, TensorFlow</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">⏳ SPENT MY TIME</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/svg/ai-focus.svg" alt="Focus" width="200px"/>
+    </td>
+    <td width="50%" valign="middle">
+      <ul>
+        <li><strong>Architecture:</strong> Designing scalable backend systems</li>
+        <li><strong>Automation:</strong> Integrating AI agents into workflows</li>
+        <li><strong>Optimization:</strong> Refactoring code for performance</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 <h2 align="center">🛠 TECH STACK</h2>
-<div align="center">
-  <img src="assets/svg/toolbox-title.svg" alt="Toolbox" width="150px"/>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-
+<div align="center">
+  <br>
+  <sub><i>Generated with Passion for Architecture & Automation</i></sub>
+</div>
