@@ -181,14 +181,29 @@
 <h1 align="center">🚀 Technical Toolbox</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+scalable+AI-powered+systems;Clean+code%2C+robust+architecture%2C+measurable+impact" alt="toolbox-typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=1100&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+scalable+AI-powered+applications;Backend+APIs+%2B+LLMs+%2B+Data+%2B+DevOps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=AI%20%7C%20Backend%20%7C%20Data%20%7C%20DevOps&fontAlign=50&fontAlignY=35&fontSize=24&animation=twinkling" alt="animated divider" />
 </p>
 
 ---
 
-### 💻 Backend, API & Core Languages
+<h3 align="center">🤖 AI / LLM Engineering</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,php,js" alt="backend-icons" />
+  <img src="https://img.shields.io/badge/LLM_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Engineering" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/AI_Agents-1F8B4C?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="AI Agents" />
+</p>
+
+---
+
+<h3 align="center">⚙️ Backend & API Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,php" alt="Backend Icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
@@ -197,27 +212,25 @@
 
 ---
 
-### 🤖 AI / LLM Engineering
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Engineering" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css" alt="Frontend Icons" />
 </p>
 
 ---
 
-### 🧠 Vector Search & Caching
+<h3 align="center">🧠 Vector, Cache & Queue</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vector_DB-6E40C9?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector DB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery_Broker-2E8B57?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="Celery Broker" />
 </p>
 
 ---
 
-### 🗄️ Databases & ORM
+<h3 align="center">🗄️ Databases & ORM</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="db-icons" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Database Icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
@@ -227,15 +240,28 @@
 
 ---
 
-### 🧱 DevOps, Tools & Environment
+<h3 align="center">🐳 DevOps & Infrastructure</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,pycharm" alt="devops-tools-icons" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" alt="DevOps Icons" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools & Workspace</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="Tools Icons" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-f7f4e9?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude" />
   <img src="https://img.shields.io/badge/Ollama_Local_LLM-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama Local LLM" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="100%" alt="divider" />
+</p>
+
+
 
 
 
