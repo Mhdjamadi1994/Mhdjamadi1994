@@ -1,53 +1,30 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mhd Jamadi Header">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mhd Jamadi Header">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#02140d"/>
-      <stop offset="50%" stop-color="#041f16"/>
-      <stop offset="100%" stop-color="#03110c"/>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#03150f"/>
+      <stop offset="100%" stop-color="#06261b"/>
     </linearGradient>
-    <linearGradient id="neon" x1="0" x2="1">
-      <stop offset="0%" stop-color="#2cff88"/>
-      <stop offset="100%" stop-color="#00d66b"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="avatarClip"><circle cx="980" cy="160" r="105"/></clipPath>
     <style>
-      .title { font: 800 58px 'Segoe UI', Arial, sans-serif; fill: #eafff4; letter-spacing: 2px; }
-      .role  { font: 700 23px 'Segoe UI', Arial, sans-serif; fill: #7dffb8; letter-spacing: 2px; }
-      .tag   { font: 600 15px 'Segoe UI', Arial, sans-serif; fill: #cbffe2; }
-      .scan { opacity:.28; }
+      .t1{font:700 56px Segoe UI,Arial,sans-serif;fill:#eafff4}
+      .t2{font:600 24px Segoe UI,Arial,sans-serif;fill:#8fffc3}
+      .b{font:600 14px Segoe UI,Arial,sans-serif;fill:#d9ffea}
     </style>
+    <clipPath id="c"><circle cx="980" cy="160" r="92"/></clipPath>
   </defs>
 
-  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
-  <rect x="12" y="12" width="1176" height="296" rx="16" fill="none" stroke="url(#neon)" stroke-width="2.2" filter="url(#glow)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#g)"/>
+  <rect x="12" y="12" width="1176" height="296" rx="14" fill="none" stroke="#2cff88" stroke-width="2"/>
 
-  <rect x="20" y="35" width="730" height="2.5" fill="#2cff88" class="scan" filter="url(#glow)">
-    <animate attributeName="y" values="35;285;35" dur="5.2s" repeatCount="indefinite"/>
-  </rect>
+  <text x="60" y="118" class="t1">MHD JAMADI</text>
+  <text x="60" y="156" class="t2">AI ENGINEER | BACKEND DEVELOPER</text>
+  <line x1="60" y1="176" x2="740" y2="176" stroke="#2cff88"/>
 
-  <text x="55" y="118" class="title" filter="url(#glow)">MHD JAMADI</text>
-  <text x="58" y="158" class="role">AI ENGINEER | BACKEND DEVELOPER</text>
-  <line x1="55" y1="176" x2="730" y2="176" stroke="#2cff88" stroke-width="2" opacity=".65"/>
+  <rect x="60" y="195" width="90" height="28" rx="14" fill="#0d3325" stroke="#2cff88"/><text x="84" y="214" class="b">Python</text>
+  <rect x="160" y="195" width="70" height="28" rx="14" fill="#0d3325" stroke="#2cff88"/><text x="185" y="214" class="b">LLM</text>
+  <rect x="240" y="195" width="70" height="28" rx="14" fill="#0d3325" stroke="#2cff88"/><text x="265" y="214" class="b">RAG</text>
+  <rect x="320" y="195" width="92" height="28" rx="14" fill="#0d3325" stroke="#2cff88"/><text x="343" y="214" class="b">Django</text>
+  <rect x="422" y="195" width="92" height="28" rx="14" fill="#0d3325" stroke="#2cff88"/><text x="444" y="214" class="b">FastAPI</text>
 
-  <rect x="55" y="194" width="90" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="79" y="214" class="tag">Python</text>
-  <rect x="154" y="194" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="180" y="214" class="tag">LLM</text>
-  <rect x="235" y="194" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="262" y="214" class="tag">RAG</text>
-  <rect x="316" y="194" width="94" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="339" y="214" class="tag">Django</text>
-  <rect x="419" y="194" width="98" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="440" y="214" class="tag">FastAPI</text>
-  <rect x="526" y="194" width="86" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="551" y="214" class="tag">Redis</text>
-  <rect x="55" y="234" width="92" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="77" y="254" class="tag">Docker</text>
-  <rect x="156" y="234" width="72" height="30" rx="15" fill="#0a2a1d" stroke="#1fff7a"/><text x="182" y="254" class="tag">SQL</text>
-
-  <circle cx="980" cy="160" r="112" fill="none" stroke="#2cff88" stroke-width="3" filter="url(#glow)">
-    <animate attributeName="r" values="110;113;110" dur="2.3s" repeatCount="indefinite"/>
-  </circle>
-
-  <image href="./profile.webp" x="875" y="55" width="210" height="210" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-
-  <path d="M1095 70 L1145 70 L1145 120" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
-  <path d="M865 250 L815 250 L815 200" stroke="#2cff88" stroke-width="2" fill="none" opacity=".9"/>
+  <circle cx="980" cy="160" r="98" fill="none" stroke="#2cff88" stroke-width="2"/>
+  <image href="profile.webp" x="888" y="68" width="184" height="184" clip-path="url(#c)" preserveAspectRatio="xMidYMid slice"/>
 </svg>
