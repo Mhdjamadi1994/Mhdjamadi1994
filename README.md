@@ -178,14 +178,6 @@
 
 
 
-<div align="center">
-  <img src="assets/svg/header-neo.svg" alt="Header" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="assets/svg/ai-focus.svg" alt="AI Focus" width="100%" />
-</div>
 
 
